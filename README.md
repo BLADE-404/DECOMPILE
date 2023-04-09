@@ -2,8 +2,8 @@ Command :
 
 rm -rf DOCODER
 
-git clone https://github.com/OXIDE-404/DOCODER
+git clone https://github.com/OXIDE-404/DECODER
 
-cd DOCODER
+cd DECODER
 
-python dec.py
+python decode.py

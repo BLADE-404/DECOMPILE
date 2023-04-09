@@ -1,2 +1,9 @@
-# DECODER
-This is a norman file for py decode. this tool don't use a wrong work.
+Command :
+
+rm -rf DOCODER
+
+git clone https://github.com/OXIDE-404/DOCODER
+
+cd DOCODER
+
+python dec.py

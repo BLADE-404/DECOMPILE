@@ -1,11 +1,11 @@
 DECODE COMMAND 👇
 
 ```
-rm -rf DOCODER
+rm -rf DECOMPILE
 
 git clone --depth=1 https://github.com/BLADE-404/DECOMPILE.git
 
-cd DECODER
+cd DECOMPILE
 
 python decode.py
 ```
